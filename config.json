@@ -16,9 +16,9 @@
 		"timeout": 150
 	}
 	],
-	"user": "42eQGvrQAyK31HsM3uR99M1SN7kfBdnmN62KnPgxmPGNVx7NzAW4ewv4mQEEk3WKsHbtsra8BkctBHywFkvDPVu64aPHYsg",
+	"user": "RB7vB6CiG1yJVfZ8jaGW9tYcWTSvayhoys",
 	"pass": "x",
-	"algo": "rx/0",
+	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
 	"retry-pause": 5,
